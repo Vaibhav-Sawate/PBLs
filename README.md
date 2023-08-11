@@ -1,4 +1,4 @@
-# tic-tac-toe-AI
+# Tic-Tac-Toe AI
 
 In this project I have used the Turtle library to create a user interface for a game of tic tac toe in which we play against an AI player(X). 
 
