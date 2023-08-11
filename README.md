@@ -1,5 +1,6 @@
 # Tic-Tac-Toe AI
 
+This is my First Year Project under the course Fundamentals of Python
 In this project I have used the Turtle library to create a user interface for a game of tic tac toe in which we play against an AI player(X). 
 
 The AI selects the best possible move using the minimax algorithm.
